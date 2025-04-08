@@ -24,6 +24,7 @@ Only selected fields are fetched from the API (name, languages, region, populati
 	•	/most-borders – Return the 5 countries with the most land borders
 
 🖼️ Visualization Endpoints
+
 	•	/plot-top-regions – Horizontal barplot of countries per region (PNG)
 	•	/plot-most-borders – Barplot of the 5 countries with the most borders (PNG)
 	•	/map-most-borders – World map showing the top 5 countries with most land borders, highlighted in color (PNG)
